@@ -32,6 +32,8 @@
 <br />
 <br />
 
+---
+
 [twitter]: https://twitter.com/Luuj25
 [youtube]: https://www.youtube.com/channel/UCuEzk9Glv6H28ubtlRIyweg
 [instagram]: https://www.instagram.com/eliezer_passos/
