@@ -1,4 +1,4 @@
-### Oii eu sou o Eliezer Passos, desenvolvedor web junior!
+### Hi i am Eliezer Passos, developer web !
 
 
 I love to apply my knowledge to solve problems.
