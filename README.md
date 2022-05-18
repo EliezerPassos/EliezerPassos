@@ -2,7 +2,7 @@
 
 ## Eu sou um Músico, um bom filho, Desenvolvedor e Professor!!
 
-- 🌱 Atualmente, estou Trabalhando com react.js.
+- 🌱 Atualmente, estou Estudando react.js.
 - 👯 Estou procurando colaborar com outros criadores de conteúdo
 - 🥅 Metas de 2020: contribuir mais para projetos de código aberto
 - ⚡ Curiosidade: Sempre faço tudo como se fosse pra Deus
