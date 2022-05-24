@@ -1,4 +1,4 @@
-### Oii, eu sou Eliezer Passos, Desenvolvedor web junior!
+### Oii, eu sou Eliezer Passos, Desenvolvedor Front End!
 
 ## Eu sou um Músico, um bom filho, Desenvolvedor e Professor!!
 
