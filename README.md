@@ -1,6 +1,6 @@
-### Analista de sistemas / Desenvolvedor Front End!
+### Desenvolvedor RPA / Desenvolvedor Front End!
 
-## Eu sou um Músico, um bom filho, Desenvolvedor e Professor!!
+## Eu sou um Músico, Desenvolvedor e Professor!!
 
 - 🌱 Atualmente, estou Estudando react.js.
 - 👯 Estou procurando colaborar com outros criadores de conteúdo
