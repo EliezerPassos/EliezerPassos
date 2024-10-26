@@ -1,10 +1,10 @@
-### Desenvolvedor RPA / Desenvolvedor Front End!
+### Desenvolvedor RPA Pleno
 
 ## Eu sou um Músico, Desenvolvedor e Professor!!
 
 - 🌱 Atualmente, estou Estudando react.js.
 - 👯 Estou procurando colaborar com outros criadores de conteúdo
-- 🥅 Metas de 2023: contribuir mais para projetos de código aberto
+- 🥅 Metas de 2024: Desenvolver hiper automações em python
 - ⚡ Curiosidade: Sempre faço tudo como se fosse pra Deus
 
 ### Conecte-se comigo:
